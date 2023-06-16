@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "CsaVK5MiLZOs5-q5XXQYT",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Digambaran/16p1.git",
+    "ssh": "git@github.com:Digambaran/16p1.git",
     "branch": "block__ab_thr_pack"
   },
   "parentBlockIDs": [
