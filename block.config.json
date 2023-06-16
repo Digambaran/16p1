@@ -1,0 +1,22 @@
+{
+  "name": "_ab_thr_pack",
+  "type": "package",
+  "blockId": "CsaVK5MiLZOs5-q5XXQYT",
+  "source": {
+    "https": "https://github.com/Digambaran/16p1.git",
+    "ssh": "git@github.com:Digambaran/16p1.git",
+    "branch": "block__ab_thr_pack"
+  },
+  "parentBlockIDs": [
+    "zQbE2ZV0ZMWoy5JDTECHS"
+  ],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {},
+  "version": "0.0.1",
+  "versionId": "kOulR4zSdfy_B7sl7wkJU",
+  "variantOf": "kOulR4zSdfy_B7sl7wkJU"
+}
