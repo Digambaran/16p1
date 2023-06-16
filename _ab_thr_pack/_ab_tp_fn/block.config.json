@@ -1,0 +1,24 @@
+{
+  "blockId": "cd1zzaJs6y69-qXSBZOfK",
+  "name": "_ab_tp_fn",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block__ab_tp_fn"
+  },
+  "parentBlockIDs": [
+    "zQbE2ZV0ZMWoy5JDTECHS",
+    "CsaVK5MiLZOs5-q5XXQYT"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js",
+  "version": "0.0.1",
+  "versionId": "UjTUJgQpzzq7JDtvFkBeH",
+  "variantOf": "UjTUJgQpzzq7JDtvFkBeH"
+}

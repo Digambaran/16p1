@@ -1,0 +1,21 @@
+{
+  "name": "16p1",
+  "type": "package",
+  "blockId": "zQbE2ZV0ZMWoy5JDTECHS",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_16p1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "_ab_thr_pack": {
+      "directory": "_ab_thr_pack"
+    }
+  }
+}
